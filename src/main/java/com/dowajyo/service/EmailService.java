@@ -28,7 +28,7 @@ public class EmailService {
         message.setSubject("Da-in 인증번호가 도착했습니다.");//제목
 
         st.append("<div style='margin:100px;'>");
-        st.append("<h1> 안녕하세요 다인 입니다. </h1>");
+        st.append("<h1> 안녕하세요 도와죠 입니다. </h1>");
         st.append("<br>");
         st.append("<p>아래 코드를 회원가입 창으로 돌아가 입력해주세요<p>");
         st.append("<br>");
